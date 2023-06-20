@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello there‼👋👨‍💻
 
-<!--
-**fmaestre98/fmaestre98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior Software Developer with 1 year of experience at an ecommerce startup. During my time at university, I completed professional internships at XETID where I programmed in PHP and Extjs during my 3rd and 4th year. I was an active participant in programming competitions such as the ICPC, where I qualified for the Caribbean finals twice. I have also participated in other scientific programming events, such as the Global Game Jam and DevCa. I am committed to continuing to learn and improve my software development skills, and I am seeking an opportunity to apply my skills and knowledge in a challenging and exciting work environment. I believe that my previous experience and interest in programming make me an ideal candidate to work in a software development team.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming languages:** Java, Kotlin, PHP, JavaScript, TypeScript, Java, Dart.
+- **Frameworks/Libraries:** Jetpack Compose, Node.js, Flutter.
+- **Databases:** MySQL, GraphQL, MongoDB.
+- **Version control tools:** Git.
+- **Other tools:** Android Studio, Visual Studio Code, PhpStorm, Postman, Docker.
+
+## Experience
+
+- Junior Software Developer at an ecommerce startup (1 year).
+- Professional internships at XETID, where I programmed in PHP and Extjs (3rd and 4th year).
+
+## Achievements
+
+- Active participant in programming competitions such as the ICPC, where I qualified for the Caribbean finals twice.
+- Participant in other scientific programming events, such as the Global Game Jam and DevCa.
+
+## Contact
+
+If you are interested in collaborating on a project or just want to talk about programming, feel free to contact me!
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-ortiz-maestre/)](https://www.linkedin.com/in/fabian-ortiz-maestre/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:fmaestre98@gmail.com)](mailto:fmaestre98@gmail.com)
+
+Thanks for visiting my GitHub profile! 😄
+
