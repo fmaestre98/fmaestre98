@@ -5,7 +5,7 @@ I am a Junior Software Developer with 1 year of experience at an ecommerce start
 ## Skills
 
 - **Programming languages:** Kotlin, PHP, JavaScript, TypeScript, Java.
-- **Frameworks/Libraries:** Jetpack Compose, Node.js.
+- **Frameworks/Libraries:** Jetpack Compose, Laravel, Node.js.
 - **Databases:** MySQL, GraphQL, MongoDB.
 - **Version control tools:** Git.
 - **Other tools:** Android Studio, Visual Studio Code, PhpStorm, Postman, Docker.
