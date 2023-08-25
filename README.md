@@ -1,11 +1,11 @@
 # Hello there‼👋👨‍💻
 
-I am a Junior Software Developer with 1 year of experience at an ecommerce startup. During my time at university, I completed professional internships at XETID where I programmed in PHP and Extjs during my 3rd and 4th year. I was an active participant in programming competitions such as the ICPC, where I qualified for the Caribbean finals twice. I have also participated in other scientific programming events, such as the Global Game Jam and DevCa. I am committed to continuing to learn and improve my software development skills, and I am seeking an opportunity to apply my skills and knowledge in a challenging and exciting work environment. I believe that my previous experience and interest in programming make me an ideal candidate to work in a software development team.
+I am a  Software Developer at UnDosTres. During my time at university, I completed professional internships at XETID where I programmed in PHP and Extjs during my 3rd and 4th year. I was an active participant in programming competitions such as the ICPC, where I qualified for the Caribbean finals twice. I have also participated in other scientific programming events, such as the Global Game Jam and DevCa. I am committed to continuing to learn and improve my software development skills.
 
 ## Skills
 
-- **Programming languages:** Kotlin, PHP, JavaScript, TypeScript, Java.
-- **Frameworks/Libraries:** Jetpack Compose, Laravel, Node.js.
+- **Programming languages:** Kotlin, PHP, JavaScript, Dart, Java.
+- **Frameworks/Libraries:** Jetpack Compose, Laravel, Node.js, Flutter.
 - **Databases:** MySQL, GraphQL, MongoDB.
 - **Version control tools:** Git.
 - **Other tools:** Android Studio, Visual Studio Code, PhpStorm, Postman, Docker.
