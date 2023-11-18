@@ -5,11 +5,10 @@ I am a  Software Developer at UnDosTres. During my time at university, I complet
 ## Skills
 
 - **Programming languages:** Kotlin, PHP, JavaScript, Dart, Java.
-- **Frameworks/Libraries:** Jetpack Compose, Laravel, Node.js, Flutter.
+- **Frameworks/Libraries:** Jetpack Compose, Spring Boot, Node.js, Flutter.
 - **Databases:** MySQL, GraphQL, MongoDB.
 - **Version control tools:** Git.
-- **Other tools:** Android Studio, Visual Studio Code, PhpStorm, Postman, Docker.
-
+  
 ## Experience
 
 - Junior Software Developer at an ecommerce startup (1 year).
