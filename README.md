@@ -4,10 +4,9 @@ I am a  Software Developer at UnDosTres. During my time at university, I complet
 
 ## Skills
 
-- **Programming languages:** Kotlin, PHP, JavaScript, Dart, Java.
+- **Programming languages:**  Java, Kotlin, PHP, JavaScript, Dart.
 - **Frameworks/Libraries:** Jetpack Compose, Spring Boot, Node.js, Flutter.
 - **Databases:** MySQL, GraphQL, MongoDB.
-- **Version control tools:** Git.
   
 ## Experience
 
