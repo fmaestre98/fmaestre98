@@ -14,7 +14,7 @@ Upon completing my military service, I rejoined the same startup team in a remot
   
 ## Experience
 
-- Junior Software Developer at an ecommerce startup (1 year).
+- Junior Software Developer at an ecommerce startup (+1 year).
 - Professional internships, where I programmed in PHP and Extjs (3rd and 4th year).
 
 ## Achievements
