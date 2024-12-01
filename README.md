@@ -1,14 +1,10 @@
 # Hello there‼👋👨‍💻
 
-I am a passionate software developer with over 1 year of experience, specializing in backend and mobile development. My journey in programming began in 2016 when I enrolled at the University of Informatics Sciences to pursue a degree in Computer Science Engineering. During my university years, I actively participated in programming events and competitions such as the Global Game Jam and the ICPC competitions, qualifying twice for the Caribbean finals.
-
-I completed professional internships during my third and fourth year of studies, where I worked with PHP and Extjs to develop plugins for ProccesMaker. Amid the COVID-19 quarantine and the transition to remote classes in my final year of studies, I secured my first professional remote job with a startup. Despite academic and work responsibilities, I temporarily had to leave my job and school to fulfill 18 months of active military service, aiming to free myself from certain military obligations.
-
-Upon completing my military service, I rejoined the same startup team in a remote capacity and subsequently began working on my thesis, the final requirement for obtaining a degree in Computer Science Engineering. My dedication to software development, ability to adapt to new challenges, and experience in remote work environments have allowed me to grow professionally and successfully tackle various projects and responsibilities.
+I am a passionate software developer with over two years of professional experience, specializing in backend and mobile development. My programming journey began in 2016 when I enrolled at the University of Informatics Sciences to pursue a degree in Computer Science Engineering. Throughout my university years, I actively participated in programming events and competitions, including the Global Game Jam and the ICPC, where I qualified twice for the Caribbean finals. I gained valuable experience during my professional internships in my third and fourth years, developing plugins for ProcessMaker using PHP and ExtJS. My primary expertise lies in backend development with Java and mobile development with Flutter, but I am also very interested in Kotlin technologies, including native Android development and Kotlin Multiplatform (KMP), as well as their applications in backend development.
 
 ## Skills
 
-- **Programming languages:**  Java, Kotlin, PHP, JavaScript, Dart.
+- **Programming languages:** Kotlin, Java, PHP, JavaScript, Dart.
 - **Frameworks/Libraries:** Jetpack Compose, Spring Boot, Node.js, Flutter.
 - **Databases:** MySQL, GraphQL, MongoDB.
   
