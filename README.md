@@ -12,7 +12,7 @@ My main expertise is in backend development with Java and PHP, complemented by m
   
 ## Experience
 
-- Junior Software Developer at an ecommerce startup (+2 year).
+- Software Developer at an ecommerce startup (+2 year).
 - Professional internships, where I programmed in PHP and Extjs (3rd and 4th year).
 
 ## Contact
