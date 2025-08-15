@@ -8,7 +8,7 @@ My main expertise is in backend development with Java and PHP, complemented by m
 
 - **Programming languages:** Kotlin, Java, PHP, JavaScript, Dart.
 - **Frameworks/Libraries:** Jetpack Compose, Spring Boot, Flutter, Node.js.
-- **Databases:** MySQL, GraphQL, MongoDB.
+- **Databases:** MySQL, MongoDB.
   
 ## Experience
 
